@@ -1,0 +1,27 @@
+.four-0-four-image {
+    display: block;
+    margin: 60px auto;
+}
+
+.four-0-four-msg {
+    text-align: center;
+    text-transform: capitalize;
+    color: #081F62;
+}
+
+.four-0-four-msg a {
+    color: #535F80;
+}
+
+/* :root{
+    --primary-color: #081F62;
+        --secondary-color: #535F80;
+        --secondary-dark-color: #051747;
+    
+        --white-color: #ffffff;
+        --light-bg-color: #E7E9F0;
+        --light-text-color: #7C899A;
+        --border-color: #E5E8EC;
+        --dark-color: #000000;
+}
+*/
